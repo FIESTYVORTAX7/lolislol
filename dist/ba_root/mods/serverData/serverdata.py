@@ -2,3 +2,6 @@
 
 clients={}
 cachedclients=[]
+muted=False
+coopmode=False
+ips={}
